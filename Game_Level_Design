@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Game Level Design</h1>
+        <h2>What the role entails:</h2>
+        <p> When you play games, think about what keeps you wanting to play more. Is it the environment? 
+            The way the character interacts with the world around it? Think about what makes a game 
+            interesting and exciting to play.
+            This is the job of a level designer. 
+            <br> The process begins by sketching ideas out and thinking about how to best approach the 
+            level in terms of how the player could act, and all the possibilties of this. The game needs 
+            to flow well, with a clear path mapped out but one that is not forcing the player through a narrow 
+            path that will inevitably become boring. They need to think about how to get the player to 
+            intuitively trigger the events that allows the game to progress, without making it too easy or too
+            obscure. 
+            <br><br> <b>A level designer should:</b>
+            <ul>
+                <li>be able to come up with creative ways of adding missions and challenges
+                to a game.</li>
+                <li>have a good understanding of gameplay mechanics and be able to see all possibilities
+                    in terms of what the player could do, even when acting unpredictably.  </li>
+                <li>be able to use scripting languages and understand the basics of gameplay programming.</li>
+                <li>have a basic understanding of physics and be able to accurately predict how objects
+                     will move within the game when the laws of physics are applied.</li>
+                <li>have developed 2D and 3D design skills and be able to use software such as Maya to create
+                     3D environments.</li>
+                <li>be able to communicate well with other areas of the team such as the artists and design team.
+                     They will most likely work alongside the gameplay designers, gameplay testers, as well as the
+                      artists and programmers.</li>
+            </ul>         
+        </p>
+        <h2><i>So how do I become a level designer?</i></h2>
+        <p>If you are at school or in college, taking the following courses could be useful in landing you 
+            a job as a level designer:
+            <ul>
+                <li>Art</li>
+                <li>Art and Design</li>
+                <li>Graphic Design</li>
+                <li>Computer Science</li>
+                <li>Mathematics</li>
+                <li>Physics</li>
+            </ul>
+
+        <br> Another option is to apply for Level 3 qualifications in one of the following:
+            <ul>
+                <li>Games Animation and VFX</li>
+                <li>Graphics</li>
+                <li>Digital Games Design and Development</li>
+                <li>Computing in Art and Design</li>
+                <li>Entertainment Technology: Video Games Art and Design Production</li>
+                <li>Digital Media</li>
+                <li>Creative Media Production & Technology</li>
+                <li>IT:Programming</li>
+            </ul>
+        </p>
+        <br>
+        <h2><i>But what if I've already finished college?</i></h2>
+        <p>If you've finished college in a different field, then don't fret, you can still develop the skills to 
+            break into the level design career. <br><br>
+            There are many ways to approach becoming a level designer, but the best place to start would probably
+            be to <b>play games!</b> Think about the types of games you would be interested in creating, and while playing 
+            these games, pay attention to the layout of each area and how you as the user interacts with the surrounding
+            environment. Becoming conscious of these things means that you are more likely to get a better understanding 
+            of how the level design process works and everything that you need to keep in mind when creating a level.
+            <br><br>
+            <p>If you have already finished college, even in a different field, you can always consider <b>applying for a degree.</b>
+            Although it is useful to have some knowledge on the topic already, sometimes it is not <i>entirely necessary</i> to be able 
+            to get onto a university course. Many universities have connections with people within the games industry so this 
+            would be a perfect opportunity to meet as many people as possible and start to expand your network. </p>
+            <br><br>
+            <b>Networking</b> is more of a social way of getting links within the industry. This means going to events as well as 
+            attending game jams, and trying to build relationships with the people that you meet. Often these people will know other people 
+            who know people who may be looking for someone to hire. Networking is great as it gives you the ability to use your social 
+            skills as well as your technical skills to try to build a name for yourself within the industry. Remember to bring 
+            your contact details and perhaps a link to your portfolio and try to keep in touch with the people you meet. Adding them on 
+            LinkedIn is a great way to do this and expand your network online as well.
+            <br><br>
+            <b>Buildling a portfolio</b> will be particularly useful as this is where you are able to showcase your work. 
+            For most job applications, this will be essential. It is the most optimal way of letting your employer know what 
+            you are capable of producing. 
+            <br><br>
+            Some game publishers create software that allows you to create your own mods. <b>Modding</b> is a 
+            great way to practice your skills, as you can make changes to practically any aspect of the game. You 
+            can make mods to change how the game looks, but also how it plays. This means you could potentially create 
+            a complete overhaul of the game. As well as being a great way of practicing, you could also create an area within 
+            your portfolio where you can showcase these mods <b>(although it's best to keep them separate from your main portfolio)</b>
+            <br><br>
+        </p>
+    </body>
+</html>
